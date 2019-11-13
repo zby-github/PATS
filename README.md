@@ -1,2 +1,2 @@
-# Shunt-GRU-diagnosis-of-epileptic-seizure
-This project designed a new recurrent neural network structure for EEG classification to diagnose whether there is epilepsy. In order to prevent over-fitting, we adopted K-fold cross-validation technology.Our seizure identification dataset comes from the UCI Machine Learning Database. https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
+# PATS: A New Neural Network Activation Function with Parameter
+The project is used to test the PATS activation function. Before running the code in the project, you need to download the cifar-10 / 100 dataset from http://www.cs.toronto.edu/~kriz/cifar.html
